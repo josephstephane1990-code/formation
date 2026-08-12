@@ -21,3 +21,19 @@ Participant 2 - Decisions et responsabilites
 | Preparer les ordinateurs | Informatique |
 | Liste des participants | Administration |
 | Reserver la salle | Administration |
+articipant 3 - Calendrier et conclusion
+## Calendrier
+| Activite | Date limite |
+|---|---|
+| Liste des participants | 20 aout 2026 |
+| Inscriptions | 22 aout 2026 |
+| Verification des equipements | 26 aout 2026 |
+| Formation | 28 aout 2026 |
+## Taches
+- [ ] Reserver la salle
+- [ ] Confirmer les participants
+- [ ] Preparer les ordinateurs
+- [ ] Organiser la pause-cafe
+## Conclusion
+Les services doivent collaborer pour assurer le bon deroulement de la formation.
+Message de commit : Ajout du calendrier et des taches
